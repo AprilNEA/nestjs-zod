@@ -1,5 +1,7 @@
-> [!CAUTION]
-> I had to deprecate this package because I don't have enough time to support it, and moreover, I stopped using Nest. Sorry for the inconvenience caused.
+> [!IMPORTANT]
+> Now I'm trying to continue maintenance on this package, feel free to ask questions or pull requests!
+
+---
 
 <p align="center">
   <img src="logo.svg" width="560px" align="center" alt="NestJS + Zod logo" style="max-width: 100%;" />
